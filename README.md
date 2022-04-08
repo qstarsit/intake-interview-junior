@@ -12,7 +12,12 @@ Een Dockerfile waarmme wij een image kunnen bouwen is optioneel.
 
 ## Requirements
 De website en/of API moet het volgende kunnen:
-* Het aanmaken van whiskeys
+* Het aanmaken van whiskeys, met de volgende gegevens:
+    * naam
+    * merk
+    * regio
+    * single-malt?
+    * tasting notes
 * Het toevoegen van foto's aan een whiskey
 * Het toevoegen van een rating aan een whiskey
 * Het aanpassen van een whiskey
