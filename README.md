@@ -8,7 +8,7 @@ De focus ligt niet op de frontend (het mag ook alleen een API zijn). Het zou moo
 Het schrijven van testen is optioneel, maar geeft ons wel extra inzicht in jouw manier van denken.
 Daarnaast, om de app te kunnen gebruiken, is documentatie belangrijk. Hier zijn verschillende oplossingen mogelijk.
 
-Een Dockerfile waarmme wij een image kunnen bouwen is optioneel.
+Een Dockerfile waarmee wij een image kunnen bouwen is optioneel.
 
 ## Requirements
 De website en/of API moet het volgende kunnen:
