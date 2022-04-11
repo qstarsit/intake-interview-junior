@@ -2,7 +2,11 @@
 
 Wij willen een whiskey webapp/API, gebouwd in Python.
 
-Keuze van een framework staat vrij, net als een eventuele database.
+Je hebt de keuze uit de volgende frameworks:
+* Django
+* Flask
+* FastAPI
+
 De focus ligt niet op de frontend (het mag ook alleen een API zijn). Het zou mooi meegenomen zijn.
 
 Het schrijven van testen is optioneel, maar geeft ons wel extra inzicht in jouw manier van denken.
@@ -18,7 +22,10 @@ De website en/of API moet het volgende kunnen:
     * regio
     * single-malt?
     * tasting notes
+* Alle whiskeys tonen
+* Een enkele whiskey tonen
+* Whiskeys tonen die matchen op een (gedeelte van de) naam
 * Het toevoegen van foto's aan een whiskey
 * Het toevoegen van een rating aan een whiskey
 * Het aanpassen van een whiskey
-* Het verwijderen van whiskeys
+* Het verwijderen een whiskey
