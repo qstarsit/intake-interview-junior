@@ -1,6 +1,6 @@
-# Qstars whiskey app
+# Qstars whisky app
 
-Wij willen een whiskey webapp/API, gebouwd in Python.
+Wij willen een whisky webapp/API, gebouwd in Python.
 
 Je hebt de keuze uit de volgende frameworks:
 * Django
@@ -16,16 +16,16 @@ Een Dockerfile waarmee wij een image kunnen bouwen is optioneel.
 
 ## Requirements
 De website en/of API moet het volgende kunnen:
-* Het aanmaken van whiskeys, met de volgende gegevens:
+* Het aanmaken van whisky's, met de volgende gegevens:
     * naam
     * merk
     * regio
     * single-malt?
     * tasting notes
-* Alle whiskeys tonen
-* Een enkele whiskey tonen
-* Whiskeys tonen die matchen op een (gedeelte van de) naam
-* Het toevoegen van foto's aan een whiskey
-* Het toevoegen van een rating aan een whiskey
-* Het aanpassen van een whiskey
-* Het verwijderen een whiskey
+* Alle whisky's tonen
+* Een enkele whisky tonen
+* Whisky's tonen die matchen op een (gedeelte van de) naam
+* Het toevoegen van foto's aan een whisky
+* Het toevoegen van een rating aan een whisky
+* Het aanpassen van een whisky
+* Het verwijderen een whisky
